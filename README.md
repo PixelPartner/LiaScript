@@ -1912,7 +1912,7 @@ Todo, description of the currently applied macro-syntax.
 {1}{<h1> André Dietrich </h1>} <!-- class = "animated fadeInUpBig" -->
 
 --{{1}}--
-Programming paradigm experimenter and creator of liaScript and SelectScript...
+Programming paradigm experimenter and creator of liaScript and SelectScript ...
 
 
 
@@ -1926,3 +1926,9 @@ The mind in the dark and the man behind the eLab-project ...
 
 --{{3}}--
 Embedded systems developer, creator or arduinoview, and Markdown evangelist ...
+
+
+{4}{<h1> Thomas Kumlehn </h1>} <!-- class = "animated fadeInUpBig" -->
+
+--{{4}}--
+Fullstack developer, liaScript fanboy and AR evangelist ...
